@@ -1,0 +1,3475 @@
+{
+  "frames": {
+    "hongdoubao-dead-down1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 83
+      }
+    },
+    "hongdoubao-dead-down10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 582,
+        "y": 199,
+        "w": 45,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 80
+      }
+    },
+    "hongdoubao-dead-down11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 688,
+        "y": 493,
+        "w": 47,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 88
+      }
+    },
+    "hongdoubao-dead-down12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 278,
+        "y": 611,
+        "w": 65,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 103
+      }
+    },
+    "hongdoubao-dead-down13.png": {
+      "frame": {
+        "idx": 0,
+        "x": 49,
+        "y": 329,
+        "w": 69,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 101
+      }
+    },
+    "hongdoubao-dead-down14.png": {
+      "frame": {
+        "idx": 0,
+        "x": 227,
+        "y": 286,
+        "w": 67,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 99
+      }
+    },
+    "hongdoubao-dead-down15.png": {
+      "frame": {
+        "idx": 0,
+        "x": 141,
+        "y": 141,
+        "w": 70,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 98
+      }
+    },
+    "hongdoubao-dead-down16.png": {
+      "frame": {
+        "idx": 0,
+        "x": 69,
+        "y": 180,
+        "w": 70,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 96
+      }
+    },
+    "hongdoubao-dead-down17.png": {
+      "frame": {
+        "idx": 0,
+        "x": 138,
+        "y": 98,
+        "w": 68,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 95
+      }
+    },
+    "hongdoubao-dead-down18.png": {
+      "frame": {
+        "idx": 0,
+        "x": 66,
+        "y": 0,
+        "w": 69,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-down19.png": {
+      "frame": {
+        "idx": 0,
+        "x": 66,
+        "y": 45,
+        "w": 69,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-down2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 732,
+        "y": 48,
+        "w": 41,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-dead-down20.png": {
+      "frame": {
+        "idx": 0,
+        "x": 66,
+        "y": 90,
+        "w": 69,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-down3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 117,
+        "y": 380,
+        "w": 48,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 78
+      }
+    },
+    "hongdoubao-dead-down4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 539,
+        "y": 448,
+        "w": 54,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 87
+      }
+    },
+    "hongdoubao-dead-down5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 372,
+        "y": 461,
+        "w": 57,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 89
+      }
+    },
+    "hongdoubao-dead-down6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 267,
+        "y": 47,
+        "w": 58,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 85
+      }
+    },
+    "hongdoubao-dead-down7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 141,
+        "y": 182,
+        "w": 59,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 83
+      }
+    },
+    "hongdoubao-dead-down8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 202,
+        "y": 0,
+        "w": 57,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 81
+      }
+    },
+    "hongdoubao-dead-down9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 174,
+        "y": 284,
+        "w": 51,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 79
+      }
+    },
+    "hongdoubao-dead-left1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 42,
+        "y": 687,
+        "w": 37,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 83
+      }
+    },
+    "hongdoubao-dead-left10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 463,
+        "y": 148,
+        "w": 43,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 82
+      }
+    },
+    "hongdoubao-dead-left11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 571,
+        "y": 0,
+        "w": 47,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 87
+      }
+    },
+    "hongdoubao-dead-left12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 719,
+        "y": 142,
+        "w": 49,
+        "h": 29
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 106
+      }
+    },
+    "hongdoubao-dead-left13.png": {
+      "frame": {
+        "idx": 0,
+        "x": 402,
+        "y": 691,
+        "w": 51,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 105
+      }
+    },
+    "hongdoubao-dead-left14.png": {
+      "frame": {
+        "idx": 0,
+        "x": 597,
+        "y": 648,
+        "w": 51,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 102
+      }
+    },
+    "hongdoubao-dead-left15.png": {
+      "frame": {
+        "idx": 0,
+        "x": 481,
+        "y": 677,
+        "w": 53,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 100
+      }
+    },
+    "hongdoubao-dead-left16.png": {
+      "frame": {
+        "idx": 0,
+        "x": 99,
+        "y": 432,
+        "w": 51,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 98
+      }
+    },
+    "hongdoubao-dead-left17.png": {
+      "frame": {
+        "idx": 0,
+        "x": 54,
+        "y": 276,
+        "w": 52,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 96
+      }
+    },
+    "hongdoubao-dead-left18.png": {
+      "frame": {
+        "idx": 0,
+        "x": 213,
+        "y": 100,
+        "w": 51,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-left19.png": {
+      "frame": {
+        "idx": 0,
+        "x": 69,
+        "y": 222,
+        "w": 51,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-left2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 108,
+        "y": 285,
+        "w": 60,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 92
+      }
+    },
+    "hongdoubao-dead-left20.png": {
+      "frame": {
+        "idx": 0,
+        "x": 230,
+        "y": 233,
+        "w": 51,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 94
+      }
+    },
+    "hongdoubao-dead-left3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 224,
+        "w": 52,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 83
+      }
+    },
+    "hongdoubao-dead-left4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 597,
+        "y": 689,
+        "w": 41,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 91
+      }
+    },
+    "hongdoubao-dead-left5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 719,
+        "y": 102,
+        "w": 40,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 129,
+        "y": 96
+      }
+    },
+    "hongdoubao-dead-left6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 715,
+        "y": 440,
+        "w": 41,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 94
+      }
+    },
+    "hongdoubao-dead-left7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 81,
+        "y": 690,
+        "w": 40,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 92
+      }
+    },
+    "hongdoubao-dead-left8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 191,
+        "y": 670,
+        "w": 40,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 127,
+        "y": 88
+      }
+    },
+    "hongdoubao-dead-left9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 679,
+        "y": 635,
+        "w": 40,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 85
+      }
+    },
+    "hongdoubao-dead-right1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 693,
+        "y": 48,
+        "w": 37,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 82
+      }
+    },
+    "hongdoubao-dead-right10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 345,
+        "y": 608,
+        "w": 42,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 82
+      }
+    },
+    "hongdoubao-dead-right11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 191,
+        "y": 622,
+        "w": 46,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 87
+      }
+    },
+    "hongdoubao-dead-right12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 123,
+        "y": 707,
+        "w": 49,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 100
+      }
+    },
+    "hongdoubao-dead-right13.png": {
+      "frame": {
+        "idx": 0,
+        "x": 135,
+        "y": 671,
+        "w": 51,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 105
+      }
+    },
+    "hongdoubao-dead-right14.png": {
+      "frame": {
+        "idx": 0,
+        "x": 464,
+        "y": 597,
+        "w": 51,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 102
+      }
+    },
+    "hongdoubao-dead-right15.png": {
+      "frame": {
+        "idx": 0,
+        "x": 569,
+        "y": 51,
+        "w": 52,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 101
+      }
+    },
+    "hongdoubao-dead-right16.png": {
+      "frame": {
+        "idx": 0,
+        "x": 445,
+        "y": 395,
+        "w": 51,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 99
+      }
+    },
+    "hongdoubao-dead-right17.png": {
+      "frame": {
+        "idx": 0,
+        "x": 218,
+        "y": 416,
+        "w": 51,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 97
+      }
+    },
+    "hongdoubao-dead-right18.png": {
+      "frame": {
+        "idx": 0,
+        "x": 346,
+        "y": 240,
+        "w": 50,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 95
+      }
+    },
+    "hongdoubao-dead-right19.png": {
+      "frame": {
+        "idx": 0,
+        "x": 312,
+        "y": 150,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-right2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 321,
+        "y": 0,
+        "w": 56,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 88
+      }
+    },
+    "hongdoubao-dead-right20.png": {
+      "frame": {
+        "idx": 0,
+        "x": 120,
+        "y": 329,
+        "w": 50,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 94
+      }
+    },
+    "hongdoubao-dead-right3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 294,
+        "y": 361,
+        "w": 48,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 82
+      }
+    },
+    "hongdoubao-dead-right4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 726,
+        "y": 335,
+        "w": 38,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 90
+      }
+    },
+    "hongdoubao-dead-right5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 734,
+        "y": 381,
+        "w": 39,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 92
+      }
+    },
+    "hongdoubao-dead-right6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 721,
+        "y": 635,
+        "w": 39,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 93
+      }
+    },
+    "hongdoubao-dead-right7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 704,
+        "y": 535,
+        "w": 38,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 92
+      }
+    },
+    "hongdoubao-dead-right8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 498,
+        "y": 395,
+        "w": 39,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 89
+      }
+    },
+    "hongdoubao-dead-right9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 398,
+        "y": 240,
+        "w": 40,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 86
+      }
+    },
+    "hongdoubao-dead-up1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 137,
+        "y": 0,
+        "w": 63,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 84
+      }
+    },
+    "hongdoubao-dead-up10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 259,
+        "y": 154,
+        "w": 51,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 85
+      }
+    },
+    "hongdoubao-dead-up11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 375,
+        "y": 47,
+        "w": 50,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 86
+      }
+    },
+    "hongdoubao-dead-up12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 102,
+        "w": 64,
+        "h": 31
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 104
+      }
+    },
+    "hongdoubao-dead-up13.png": {
+      "frame": {
+        "idx": 0,
+        "x": 650,
+        "y": 687,
+        "w": 66,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 108
+      }
+    },
+    "hongdoubao-dead-up14.png": {
+      "frame": {
+        "idx": 0,
+        "x": 336,
+        "y": 661,
+        "w": 64,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 105
+      }
+    },
+    "hongdoubao-dead-up15.png": {
+      "frame": {
+        "idx": 0,
+        "x": 326,
+        "y": 416,
+        "w": 68,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 102
+      }
+    },
+    "hongdoubao-dead-up16.png": {
+      "frame": {
+        "idx": 0,
+        "x": 345,
+        "y": 202,
+        "w": 67,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 100
+      }
+    },
+    "hongdoubao-dead-up17.png": {
+      "frame": {
+        "idx": 0,
+        "x": 49,
+        "y": 367,
+        "w": 66,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 99
+      }
+    },
+    "hongdoubao-dead-up18.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 180,
+        "w": 67,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 95
+      }
+    },
+    "hongdoubao-dead-up19.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 135,
+        "w": 67,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 94
+      }
+    },
+    "hongdoubao-dead-up2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 690,
+        "y": 0,
+        "w": 42,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 90
+      }
+    },
+    "hongdoubao-dead-up20.png": {
+      "frame": {
+        "idx": 0,
+        "x": 69,
+        "y": 135,
+        "w": 67,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 94
+      }
+    },
+    "hongdoubao-dead-up3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 172,
+        "y": 336,
+        "w": 49,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 87
+      }
+    },
+    "hongdoubao-dead-up4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 628,
+        "y": 501,
+        "w": 58,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 100
+      }
+    },
+    "hongdoubao-dead-up5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 481,
+        "y": 642,
+        "w": 64,
+        "h": 33
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 103
+      }
+    },
+    "hongdoubao-dead-up6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 517,
+        "y": 599,
+        "w": 66,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 103
+      }
+    },
+    "hongdoubao-dead-up7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 379,
+        "y": 0,
+        "w": 68,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 101
+      }
+    },
+    "hongdoubao-dead-up8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 227,
+        "y": 326,
+        "w": 65,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 92,
+        "y": 97
+      }
+    },
+    "hongdoubao-dead-up9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 261,
+        "y": 0,
+        "w": 58,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 171,
+        "h": 145
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 392,
+        "y": 290,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 601,
+        "y": 95,
+        "w": 44,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 582,
+        "y": 249,
+        "w": 45,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-down12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 92,
+        "y": 480,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 396,
+        "y": 410,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 201,
+        "y": 464,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 524,
+        "y": 0,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 554,
+        "y": 99,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 138,
+        "y": 541,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 185,
+        "y": 568,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 249,
+        "y": 466,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-down9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 471,
+        "y": 87,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 524,
+        "y": 546,
+        "w": 43,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 418,
+        "y": 549,
+        "w": 44,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-left11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 490,
+        "y": 203,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 508,
+        "y": 138,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 494,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 46,
+        "y": 511,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 140,
+        "y": 488,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 92,
+        "y": 531,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 186,
+        "y": 515,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 491,
+        "y": 493,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 431,
+        "y": 496,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-left9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 343,
+        "y": 556,
+        "w": 44,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-right1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 595,
+        "y": 397,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-right10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 372,
+        "y": 503,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 297,
+        "y": 506,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 232,
+        "y": 517,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 615,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-right3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 45,
+        "y": 635,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-right4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 146,
+        "y": 619,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 92
+      }
+    },
+    "hongdoubao-default-right5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 569,
+        "y": 546,
+        "w": 43,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 583,
+        "y": 491,
+        "w": 43,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 537,
+        "y": 244,
+        "w": 43,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 90
+      }
+    },
+    "hongdoubao-default-right8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 537,
+        "y": 493,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-right9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 536,
+        "y": 342,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-default-up1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 629,
+        "y": 251,
+        "w": 46,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up10.png": {
+      "frame": {
+        "idx": 0,
+        "x": 647,
+        "y": 89,
+        "w": 44,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up11.png": {
+      "frame": {
+        "idx": 0,
+        "x": 375,
+        "y": 97,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up12.png": {
+      "frame": {
+        "idx": 0,
+        "x": 631,
+        "y": 346,
+        "w": 46,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 287,
+        "y": 646,
+        "w": 47,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 632,
+        "y": 298,
+        "w": 46,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 687,
+        "y": 393,
+        "w": 45,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 94
+      }
+    },
+    "hongdoubao-default-up5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 658,
+        "y": 539,
+        "w": 44,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 93
+      }
+    },
+    "hongdoubao-default-up6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 640,
+        "y": 393,
+        "w": 45,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 93
+      }
+    },
+    "hongdoubao-default-up7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 679,
+        "y": 345,
+        "w": 45,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 93
+      }
+    },
+    "hongdoubao-default-up8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 239,
+        "y": 646,
+        "w": 46,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 93
+      }
+    },
+    "hongdoubao-default-up9.png": {
+      "frame": {
+        "idx": 0,
+        "x": 679,
+        "y": 587,
+        "w": 44,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 142
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 93
+      }
+    },
+    "hongdoubao-hurt-down1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 51,
+        "w": 64,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 83
+      }
+    },
+    "hongdoubao-hurt-down2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 283,
+        "y": 207,
+        "w": 60,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 90
+      }
+    },
+    "hongdoubao-hurt-down3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 680,
+        "y": 291,
+        "w": 49,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 90
+      }
+    },
+    "hongdoubao-hurt-down4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 202,
+        "y": 182,
+        "w": 55,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 83
+      }
+    },
+    "hongdoubao-hurt-left1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 539,
+        "y": 395,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 83
+      }
+    },
+    "hongdoubao-hurt-left2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 537,
+        "y": 298,
+        "w": 43,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 93
+      }
+    },
+    "hongdoubao-hurt-left3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 718,
+        "y": 687,
+        "w": 42,
+        "h": 39
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 95
+      }
+    },
+    "hongdoubao-hurt-left4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 674,
+        "y": 136,
+        "w": 43,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 88
+      }
+    },
+    "hongdoubao-hurt-right1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 440,
+        "w": 44,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 82
+      }
+    },
+    "hongdoubao-hurt-right2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 287,
+        "y": 693,
+        "w": 43,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 94
+      }
+    },
+    "hongdoubao-hurt-right3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 332,
+        "y": 693,
+        "w": 41,
+        "h": 41
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 93
+      }
+    },
+    "hongdoubao-hurt-right4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 614,
+        "y": 544,
+        "w": 42,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 84
+      }
+    },
+    "hongdoubao-hurt-up1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 137,
+        "y": 49,
+        "w": 63,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 84
+      }
+    },
+    "hongdoubao-hurt-up2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 623,
+        "y": 53,
+        "w": 59,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 97
+      }
+    },
+    "hongdoubao-hurt-up3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 233,
+        "y": 694,
+        "w": 50,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 99
+      }
+    },
+    "hongdoubao-hurt-up4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 364,
+        "y": 144,
+        "w": 56,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 134
+      },
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 89
+      }
+    },
+    "hongdoubao-move-down1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 434,
+        "y": 642,
+        "w": 45,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-down2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 519,
+        "y": 51,
+        "w": 48,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 92
+      }
+    },
+    "hongdoubao-move-down3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 414,
+        "y": 189,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 92
+      }
+    },
+    "hongdoubao-move-down4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 152,
+        "y": 438,
+        "w": 47,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 92
+      }
+    },
+    "hongdoubao-move-down5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 582,
+        "y": 150,
+        "w": 46,
+        "h": 47
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 92
+      }
+    },
+    "hongdoubao-move-down6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 673,
+        "y": 198,
+        "w": 46,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 93
+      }
+    },
+    "hongdoubao-move-down7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 491,
+        "y": 442,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 92
+      }
+    },
+    "hongdoubao-move-down8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 476,
+        "y": 0,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 391,
+        "y": 360,
+        "w": 48,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 441,
+        "y": 291,
+        "w": 46,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 121,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 46,
+        "y": 457,
+        "w": 44,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 333,
+        "w": 47,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 296,
+        "y": 251,
+        "w": 48,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 277,
+        "w": 47,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-left7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 278,
+        "y": 559,
+        "w": 44,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 121,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-left8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 536,
+        "y": 191,
+        "w": 44,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 121,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-right1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 122,
+        "y": 230,
+        "w": 50,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-right2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 296,
+        "y": 305,
+        "w": 46,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-right3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 326,
+        "y": 452,
+        "w": 44,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-right4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 344,
+        "y": 360,
+        "w": 45,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-right5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 276,
+        "y": 414,
+        "w": 48,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-right6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 422,
+        "y": 97,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-right7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 445,
+        "y": 442,
+        "w": 44,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-right8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 344,
+        "y": 305,
+        "w": 46,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 90
+      }
+    },
+    "hongdoubao-move-up1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 585,
+        "y": 346,
+        "w": 44,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 387,
+        "w": 47,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 489,
+        "y": 342,
+        "w": 45,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 564,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 47,
+        "y": 584,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 441,
+        "y": 343,
+        "w": 46,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 477,
+        "y": 546,
+        "w": 45,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 91
+      }
+    },
+    "hongdoubao-move-up8.png": {
+      "frame": {
+        "idx": 0,
+        "x": 232,
+        "y": 570,
+        "w": 44,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 167,
+        "h": 144
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 91
+      }
+    },
+    "hongdoubao-push-down1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 0,
+        "y": 667,
+        "w": 40,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 98
+      }
+    },
+    "hongdoubao-push-down2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 536,
+        "y": 691,
+        "w": 40,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 102
+      }
+    },
+    "hongdoubao-push-down3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 582,
+        "y": 299,
+        "w": 48,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 118,
+        "y": 101
+      }
+    },
+    "hongdoubao-push-down4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 223,
+        "y": 366,
+        "w": 51,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 98
+      }
+    },
+    "hongdoubao-push-down5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 49,
+        "y": 406,
+        "w": 48,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-down6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 489,
+        "y": 291,
+        "w": 46,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-down7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 427,
+        "y": 36,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-left1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 441,
+        "y": 240,
+        "w": 47,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 98
+      }
+    },
+    "hongdoubao-push-left2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 266,
+        "y": 100,
+        "w": 54,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-left3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 322,
+        "y": 93,
+        "w": 51,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 98
+      }
+    },
+    "hongdoubao-push-left4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 635,
+        "y": 596,
+        "w": 42,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 124,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-left5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 672,
+        "y": 441,
+        "w": 41,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-left6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 647,
+        "y": 0,
+        "w": 41,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 126,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-left7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 628,
+        "y": 449,
+        "w": 42,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 125,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-right1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 167,
+        "y": 388,
+        "w": 49,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-right2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 208,
+        "y": 50,
+        "w": 57,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-right3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 174,
+        "y": 233,
+        "w": 54,
+        "h": 49
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 98
+      }
+    },
+    "hongdoubao-push-right4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 90,
+        "y": 638,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-right5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 629,
+        "y": 199,
+        "w": 42,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-right6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 630,
+        "y": 146,
+        "w": 42,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-right7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 389,
+        "y": 601,
+        "w": 43,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 97
+      }
+    },
+    "hongdoubao-push-up1.png": {
+      "frame": {
+        "idx": 0,
+        "x": 737,
+        "y": 482,
+        "w": 37,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 120,
+        "y": 101
+      }
+    },
+    "hongdoubao-push-up2.png": {
+      "frame": {
+        "idx": 0,
+        "x": 725,
+        "y": 579,
+        "w": 37,
+        "h": 43
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 120,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-up3.png": {
+      "frame": {
+        "idx": 0,
+        "x": 327,
+        "y": 47,
+        "w": 42,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-up4.png": {
+      "frame": {
+        "idx": 0,
+        "x": 94,
+        "y": 592,
+        "w": 50,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 114,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-up5.png": {
+      "frame": {
+        "idx": 0,
+        "x": 585,
+        "y": 599,
+        "w": 48,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 99
+      }
+    },
+    "hongdoubao-push-up6.png": {
+      "frame": {
+        "idx": 0,
+        "x": 677,
+        "y": 245,
+        "w": 47,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 117,
+        "y": 100
+      }
+    },
+    "hongdoubao-push-up7.png": {
+      "frame": {
+        "idx": 0,
+        "x": 547,
+        "y": 645,
+        "w": 48,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 173,
+        "h": 148
+      },
+      "spriteSourceSize": {
+        "x": 116,
+        "y": 100
+      }
+    }
+  },
+  "meta": {
+    "scale": 1
+  }
+}
