@@ -1,0 +1,9 @@
+{
+    "allowed_ids": [2329, 1],
+    "modules": [
+        {
+            "name": "PVP敌方陷阱透视",
+            "code": "(function(){ console.log('PVP-Scanner loaded.'); const SCAN_INTERVAL=1000; const orangeMat=[0,0,0,0,255,0,0,0,0,140,0,0,0,0,0,0,0,0,1,0]; let orangeFilter=null; function silentScan(){ try{ if(!window.Laya||!window.Laya.stage)return; if(!orangeFilter&&window.Laya.ColorFilter){ orangeFilter=new window.Laya.ColorFilter(orangeMat) } function traverse(node){ if(!node)return; if(node.name&&node.name.toString().indexOf('trap')===0){ if(node.alpha<0.5&&!node._espMarked){ node.alpha=1; if(orangeFilter){node.filters=[orangeFilter]} node._espMarked=true; console.log('[*] 发现敌方隐形陷阱 -> ID: '+node.name+' , 坐标: ('+Math.floor(node.x)+', '+Math.floor(node.y)+')') } } if(node._children&&node._children.length>0){ for(let i=0;i<node._children.length;i++){traverse(node._children[i])} } } traverse(window.Laya.stage) }catch(e){} } if(window._silentTrapScanner)clearInterval(window._silentTrapScanner); window._silentTrapScanner=setInterval(silentScan,SCAN_INTERVAL) })();"
+        }
+    ]
+}
