@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Ystone",
+  "version": "3.0.0",
+  "description": "Ystone - CrazyStone Game Assistant Bridge",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://oss.crazystone.top/*",
+    "https://api.vipcrazystone.asia/*",
+    "https://cdnjs.cloudflare.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://oss.crazystone.top/*"],
+      "js": ["crypto-js.min.js", "main-world.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "matches": ["https://oss.crazystone.top/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [{
+    "resources": ["crypto-js.min.js"],
+    "matches": ["https://oss.crazystone.top/*"]
+  }]
+}
