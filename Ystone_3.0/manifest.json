@@ -18,7 +18,7 @@
     },
     {
       "matches": ["https://oss.crazystone.top/*"],
-      "js": ["content.js"],
+      "js": ["ystone-keeper.js", "content.js"],
       "run_at": "document_idle"
     }
   ],
