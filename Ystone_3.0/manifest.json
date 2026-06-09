@@ -12,13 +12,13 @@
   "content_scripts": [
     {
       "matches": ["https://oss.crazystone.top/*"],
-      "js": ["crypto-js.min.js", "main-world.js"],
+      "js": ["ystone-page-keeper.js", "crypto-js.min.js", "main-world.js"],
       "run_at": "document_start",
       "world": "MAIN"
     },
     {
       "matches": ["https://oss.crazystone.top/*"],
-      "js": ["content.js"],
+      "js": ["ystone-keeper.js", "content.js"],
       "run_at": "document_idle"
     }
   ],
