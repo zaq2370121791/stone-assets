@@ -2,7 +2,6 @@
   'use strict';
 
   const TAG_ATTR = 'data-ystone-float-root';
-  const BODY_TAG_ATTR = 'data-ystone-body-root';
   const ROOT_STYLE = [
     'position: fixed',
     'top: 0',
@@ -15,10 +14,11 @@
     'visibility: visible',
   ].join('; ');
 
+  const nativeFetch = typeof window.fetch === 'function' ? window.fetch.bind(window) : null;
+
   const state = {
     root: null,
-    bodyRoot: null,
-    originalAppendChild: Node.prototype.appendChild,
+    observer: null,
   };
 
   function isYstoneOverlayHost(node) {
@@ -32,64 +32,73 @@
     );
   }
 
-  function markRoot(node) {
+  function mountParent() {
+    return document.documentElement || document.body;
+  }
+
+  function repairFetch() {
+    if (nativeFetch && typeof window.fetch !== 'function') {
+      window.fetch = nativeFetch;
+    }
+  }
+
+  function forceRootStyle(node) {
+    node.style.cssText = `${node.style.cssText || ''}; ${ROOT_STYLE}`;
+  }
+
+  function rememberRoot(node) {
     if (!isYstoneOverlayHost(node)) return;
 
     node.setAttribute(TAG_ATTR, 'true');
-    node.style.cssText = `${node.style.cssText || ''}; ${ROOT_STYLE}`;
+    forceRootStyle(node);
     state.root = node;
-    state.bodyRoot = node.parentNode;
-    if (state.bodyRoot && state.bodyRoot.nodeType === Node.ELEMENT_NODE) {
-      state.bodyRoot.setAttribute(BODY_TAG_ATTR, 'true');
-    }
-  }
-
-  function getMountParent() {
-    return document.body || document.documentElement;
+    ensureRootMounted();
   }
 
   function ensureRootMounted() {
-    const current =
-      state.root || document.querySelector(`[${TAG_ATTR}="true"]`);
-    if (!current) return;
+    repairFetch();
 
-    state.root = current;
-    current.style.cssText = `${current.style.cssText || ''}; ${ROOT_STYLE}`;
+    const parent = mountParent();
+    const root = state.root || document.querySelector(`[${TAG_ATTR}="true"]`);
+    if (!parent || !root) return;
 
-    const parent = getMountParent();
-    if (!parent || current.isConnected) return;
+    state.root = root;
+    forceRootStyle(root);
 
-    state.originalAppendChild.call(parent, current);
-    state.bodyRoot = parent;
-    if (parent.nodeType === Node.ELEMENT_NODE) {
-      parent.setAttribute(BODY_TAG_ATTR, 'true');
+    if (root.parentNode !== parent) {
+      parent.appendChild(root);
     }
   }
 
-  Node.prototype.appendChild = function patchedAppendChild(node) {
-    const appended = state.originalAppendChild.call(this, node);
-    if (this === document.body || this === document.documentElement) {
-      markRoot(appended);
-    }
-    return appended;
-  };
-
-  const observer = new MutationObserver(() => ensureRootMounted());
+  function scanAddedNodes(nodes) {
+    nodes.forEach((node) => {
+      if (isYstoneOverlayHost(node)) {
+        rememberRoot(node);
+      }
+    });
+  }
 
   function startKeeper() {
-    const parent = getMountParent();
-    if (!parent) return;
+    const parent = mountParent();
+    if (!parent || state.observer) return;
 
-    observer.observe(document.documentElement, {
+    state.observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => scanAddedNodes(mutation.addedNodes));
+      ensureRootMounted();
+    });
+
+    state.observer.observe(parent, {
       childList: true,
       subtree: true,
     });
 
+    scanAddedNodes(parent.childNodes);
+    repairFetch();
     ensureRootMounted();
     setInterval(ensureRootMounted, 500);
   }
 
-  if (document.documentElement) {
+  if (document.documentElement || document.body) {
     startKeeper();
   } else {
     document.addEventListener('DOMContentLoaded', startKeeper, { once: true });
